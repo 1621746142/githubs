@@ -1,1 +1,2 @@
 # githubs
+ming update readme
