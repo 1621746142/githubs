@@ -1,5 +1,4 @@
 # githubs
 
-hong update readme
-ming update readme
+xiao a 完成了功能
 
